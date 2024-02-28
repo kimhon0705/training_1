@@ -1,0 +1,9 @@
+tạo repository tên training_1 (github.com)
+
+tạo file index.js chứa đoạn code in ra hello world
+
+save lại với commit là init và đưa lên repository.
+
+quay lại add thêm đoạn code in ra dòng chữ My name is Hon
+
+add lại và đưa lên git với commit tên là: add console
